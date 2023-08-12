@@ -10,13 +10,15 @@ I am an indie developer obsessed with minimalism and video games.
 * Java
 * JS
 * C++
+* Elixir
 
-#### Currently working on Discord bots such as:
-* [Brawl Box](https://top.gg/bot/531858459512012811)
-* [Enchanted](https://top.gg/bot/697879596040716455)
+#### Currently working on Projects:
+* [ArclightBase](https://arclightbase.com)
+* [Rumble Royale](https://top.gg/bot/693167035068317736)
 
 #### My most beloved GitHub repositories:
 * [BrawlMapGen](https://github.com/thedonciuxx/BrawlMapGen)
+* [Rook's Gambit](https://github.com/bloodwiing/UniProjectChess)
 
 I've also worked on multiple games, but I have yet to actually release any ^^'
 ***
@@ -26,7 +28,7 @@ I've also worked on multiple games, but I have yet to actually release any ^^'
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y1563J8)
 
 <!--
-**thedonciuxx/thedonciuxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bloodwiing/bloodwiing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
