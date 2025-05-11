@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I am BLOODWIING, a weird Lithuanian human.
+### I am BLOODWIING, a Lithuanian nerd.
 
 I am an indie developer obsessed with minimalism and video games.
 
@@ -19,6 +19,7 @@ I am an indie developer obsessed with minimalism and video games.
 #### My most beloved GitHub repositories:
 * [BrawlMapGen](https://github.com/thedonciuxx/BrawlMapGen)
 * [Rook's Gambit](https://github.com/bloodwiing/UniProjectChess)
+* [Trailblazer](https://github.com/bloodwiing/RogueSpace)
 
 I've also worked on multiple games, but I have yet to actually release any ^^'
 ***
